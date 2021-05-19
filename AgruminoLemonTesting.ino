@@ -1,7 +1,8 @@
 /*AgruminoLemonTesting.ino - 
   Created by gabriele.foddis@lifely.cc         05/2021
   With this sketch and the Fritizing img you can try if your device work properly. 
-  Testing: GPIO connector, I2c connector, Pump Connector, Liv connector, WiFi Connection, and also Lux, temperature and Soil Moisture sensors */
+  Testing: GPIO connector, I2c connector, Pump Connector, Liv connector, WiFi Connection, and also Lux, temperature and Soil Moisture sensors 
+  Look at the images in the library or at the link https://github.com/lifely-cc/agruminoLemonTesting*/
 
 #include <Arduino.h>
 #include <Agrumino.h>
